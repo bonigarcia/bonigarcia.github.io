@@ -1,0 +1,11 @@
+﻿.filter li { float: left; }
+.filter li:after { content: "/"; }
+.filter li:last-child:after { content: ""; }
+.filter a { padding: 0 10px; text-decoration: none;}
+.filter li:first-child a { padding-left:0px }
+.filter a:hover, .filter .current a { color: #000000; }
+
+.portfolio {margin:0px}
+.portfolio li { float: left; margin-right: 20px; margin-bottom: 2em; }
+.portfolio a { display: block; text-decoration: none; }
+.portfolio img {display: block; }

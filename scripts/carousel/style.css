@@ -1,0 +1,17 @@
+﻿.list_carousel {}
+.list_carousel ul {
+    margin: 0;
+	padding: 0;
+	list-style: none;
+	display: block;
+}
+.list_carousel li {
+	margin: 10px;
+    height:150px;
+	display: block;
+	float: left;
+}
+.list_carousel.responsive {
+	width: auto;
+	margin-left: 0;
+}
