@@ -1,10 +1,10 @@
-Copyright &copy; 2021 Boni Garcia.
+Boni García
+===========
 
-Boni Garcia. Software Engineer & Visiting Professor
-====================================================
+I am Visiting Professor at <a href="http://www.it.uc3m.es/bogarcia/index.html">Universidad Carlos III de Madrid (UC3M)</a> in Spain. My main research interest is software engineering, with a special focus on automated testing. Also, I am Staff Software Engineer at <a href="https://saucelabs.com/">Sauce Labs</a>, working in the <a href="https://opensource.saucelabs.com/">Open Source Program Office</a>.
 
-I have a PhD in Information and Communications Technology from <a href="http://www.upm.es/">Technical University of Madrid (UPM)</a> in Spain since 2011. I work as an Visiting Professor at <a href="https://www.it.uc3m.es/">Universidad Carlos III de Madrid (UC3M)</a> in Spain.
+I am a committer at <a href="https://www.selenium.dev/">Selenium</a>, and the creator and maintainer of several projects belonging its ecosystem, such as <a href="https://bonigarcia.dev/webdrivermanager/">WebDriverManager</a>, <a href="https://bonigarcia.dev/selenium-jupiter/">Selenium-Jupiter</a>, and <a href="https://bonigarcia.dev/browserwatcher/">BrowserWatcher</a>.
 
-I am the author of more than 35 research papers in different journals, magazines, and international conferences. In 2017 I wrote the book <a href="https://www.amazon.com/Mastering-Software-Testing-JUnit-Comprehensive-ebook/dp/B076ZQCK5Q/">Mastering Software Testing with JUnit 5</a>, edited by Packt Publishing.
+I wrote the books <a href="https://www.amazon.com/Mastering-Software-Testing-JUnit-Comprehensive-ebook/dp/B076ZQCK5Q/">Mastering Software Testing with JUnit 5</a> (Packt Publishing, 2017) and <a href="https://oreil.ly/1E7CX">Hands-On Selenium WebDriver with Java</a> (O'Reilly Media, 2022). Moreover, I am the author of more than 45 research papers in different journals, magazines, and conferences.
 
-I am an open source software enthusiast, contributing to different projects. I am the maintainer of the projects <a href="https://github.com/bonigarcia/webdrivermanager">WebDriverManager</a> and <a href="https://github.com/bonigarcia/selenium-jupiter">Selenium-Jupiter</a> among others.
+Occasionally, I speak at workshops, meetups, and other international events. I <a href="https://twitter.com/boni_gg">tweet</a> about test automation and open source.
