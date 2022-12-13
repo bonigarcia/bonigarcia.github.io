@@ -1,7 +1,7 @@
 Boni García
 ===========
 
-I am Visiting Professor at <a href="http://www.it.uc3m.es/bogarcia/index.html">Universidad Carlos III de Madrid (UC3M)</a> in Spain. My main research interest is software engineering, with a special focus on automated testing. Also, I am Staff Software Engineer at <a href="https://saucelabs.com/">Sauce Labs</a>, working in the <a href="https://opensource.saucelabs.com/">Open Source Program Office</a>.
+I am Associate Professor at <a href="http://www.it.uc3m.es/bogarcia/index.html">Universidad Carlos III de Madrid (UC3M)</a> in Spain. My main research interest is software engineering, with a special focus on automated testing. Also, I am Staff Software Engineer at <a href="https://saucelabs.com/">Sauce Labs</a>, working in the <a href="https://opensource.saucelabs.com/">Open Source Program Office</a>.
 
 I am a committer at <a href="https://www.selenium.dev/">Selenium</a>, and the creator and maintainer of several projects belonging its ecosystem, such as <a href="https://bonigarcia.dev/webdrivermanager/">WebDriverManager</a>, <a href="https://bonigarcia.dev/selenium-jupiter/">Selenium-Jupiter</a>, and <a href="https://bonigarcia.dev/browserwatcher/">BrowserWatcher</a>.
 
