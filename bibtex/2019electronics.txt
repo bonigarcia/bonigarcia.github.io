@@ -1,0 +1,12 @@
+@Article{2019electronics,
+AUTHOR = {García, Boni and López-Fernández, Luis and Gortázar, Francisco and Gallego, Micael},
+TITLE = {Practical Evaluation of VMAF Perceptual Video Quality for WebRTC Applications},
+JOURNAL = {Electronics},
+VOLUME = {8},
+YEAR = {2019},
+NUMBER = {8},
+ARTICLE-NUMBER = {854},
+URL = {https://www.mdpi.com/2079-9292/8/8/854},
+ISSN = {2079-9292},
+DOI = {10.3390/electronics8080854}
+}

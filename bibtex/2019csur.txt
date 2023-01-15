@@ -1,0 +1,17 @@
+@article{2019csur,
+author = {Bertolino, Antonia and Angelis, Guglielmo De and Gallego, Micael and Garc\'{\i}a, Boni and Gort\'{a}zar, Francisco and Lonetti, Francesca and Marchetti, Eda},
+title = {A Systematic Review on Cloud Testing},
+year = {2019},
+issue_date = {September 2020},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {52},
+number = {5},
+issn = {0360-0300},
+url = {https://doi.org/10.1145/3331447},
+doi = {10.1145/3331447},
+journal = {ACM Computing Surveys},
+month = {sep},
+articleno = {93},
+numpages = {42}
+}

@@ -1,0 +1,12 @@
+@Article{2022electronics,
+AUTHOR = {Pérez-Sanagustín, Mar and Kotorov, Iouri and Teixeira, António and Mansilla, Fernanda and Broisin, Julien and Alario-Hoyos, Carlos and Jerez, Óscar and Teixeira Pinto, Maria do Carmo and García, Boni and Delgado Kloos, Carlos and Morales, Miguel and Solarte, Mario and Oliva-Córdova, Luis Magdiel and Gonzalez Lopez, Astrid Helena},
+TITLE = {A Competency Framework for Teaching and Learning Innovation Centers for the 21st Century: Anticipating the Post-COVID-19 Age},
+JOURNAL = {Electronics},
+VOLUME = {11},
+YEAR = {2022},
+NUMBER = {3},
+ARTICLE-NUMBER = {413},
+URL = {https://www.mdpi.com/2079-9292/11/3/413},
+ISSN = {2079-9292},
+DOI = {10.3390/electronics11030413}
+}

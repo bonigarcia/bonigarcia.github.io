@@ -1,0 +1,14 @@
+﻿@Article{2021ese,
+author={Garc{\'i}a, Boni and Munoz-Organero, Mario and Alario-Hoyos, Carlos and Kloos, Carlos Delgado},
+title={{Automated driver management for Selenium WebDriver}},
+journal={Empirical Software Engineering},
+year={2021},
+month={Jul},
+day={23},
+volume={26},
+number={5},
+pages={107},
+issn={1573-7616},
+doi={10.1007/s10664-021-09975-3},
+url={https://doi.org/10.1007/s10664-021-09975-3}
+}

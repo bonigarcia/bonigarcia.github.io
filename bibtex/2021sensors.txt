@@ -1,0 +1,13 @@
+@Article{2021sensors,
+AUTHOR = {Muñoz-Organero, Mario and Queipo-Álvarez, Paula and García, Boni},
+TITLE = {Learning Carbohydrate Digestion and Insulin Absorption Curves Using Blood Glucose Level Prediction and Deep Learning Models},
+JOURNAL = {Sensors},
+VOLUME = {21},
+YEAR = {2021},
+NUMBER = {14},
+ARTICLE-NUMBER = {4926},
+URL = {https://www.mdpi.com/1424-8220/21/14/4926},
+PubMedID = {34300672},
+ISSN = {1424-8220},
+DOI = {10.3390/s21144926}
+}

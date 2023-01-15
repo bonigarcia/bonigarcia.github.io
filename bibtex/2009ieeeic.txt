@@ -1,0 +1,11 @@
+@ARTICLE{5233611,
+  author={Duenas, Juan C. and Ruiz, José L. and Cuadrado, Félix and García, Boni and Parada G., Hugo A.},
+  journal={IEEE Internet Computing}, 
+  title={System Virtualization Tools for Software Development}, 
+  year={2009},
+  volume={13},
+  number={5},
+  pages={52-59},
+  issn={1089-7801},
+  doi={10.1109/MIC.2009.115}
+}

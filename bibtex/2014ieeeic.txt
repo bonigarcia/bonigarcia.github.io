@@ -1,0 +1,11 @@
+@ARTICLE{2014ieeeic,
+  author={López-Fernández, Luis and Gallego, Micael and García, Boni and Fernández-López, David and López, Francisco Javier},
+  journal={IEEE Internet Computing}, 
+  title={Authentication, Authorization, and Accounting in WebRTC PaaS Infrastructures: The Case of Kurento}, 
+  year={2014},
+  volume={18},
+  number={6},
+  pages={34-40},
+  issn={1089-7801},
+  doi={10.1109/MIC.2014.102}
+}

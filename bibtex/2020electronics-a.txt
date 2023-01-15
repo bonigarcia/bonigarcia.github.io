@@ -1,0 +1,12 @@
+@Article{2020electronics-a,
+AUTHOR = {García, Boni and Gortázar, Francisco and Gallego, Micael and Hines, Andrew},
+TITLE = {Assessment of QoE for Video and Audio in WebRTC Applications Using Full-Reference Models},
+JOURNAL = {Electronics},
+VOLUME = {9},
+YEAR = {2020},
+NUMBER = {3},
+ARTICLE-NUMBER = {462},
+URL = {https://www.mdpi.com/2079-9292/9/3/462},
+ISSN = {2079-9292},
+DOI = {10.3390/electronics9030462}
+}

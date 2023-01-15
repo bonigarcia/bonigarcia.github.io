@@ -1,0 +1,17 @@
+﻿@Article{2017mtools,
+author={L{\'o}pez-Fern{\'a}ndez, Luis
+and Garc{\'i}a, Boni
+and Gallego, Micael
+and Gort{\'a}zar, Francisco},
+title={Designing and evaluating the usability of an API for real-time multimedia services in the Internet},
+journal={Multimedia Tools and Applications},
+year={2017},
+month={Jun},
+day={01},
+volume={76},
+number={12},
+pages={14247-14304},
+issn={1573-7721},
+doi={10.1007/s11042-016-3729-z},
+url={https://doi.org/10.1007/s11042-016-3729-z}
+}

@@ -1,0 +1,14 @@
+﻿@Article{2019computing,
+author={Garc{\'i}a, Boni and Gallego, Micael and Gort{\'a}zar, Francisco and Bertolino, Antonia},
+title={Understanding and estimating quality of experience in WebRTC applications},
+journal={Computing},
+year={2019},
+month={Nov},
+day={01},
+volume={101},
+number={11},
+pages={1585-1607},
+issn={1436-5057},
+doi={10.1007/s00607-018-0669-7},
+url={https://doi.org/10.1007/s00607-018-0669-7}
+}

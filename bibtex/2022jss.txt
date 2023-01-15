@@ -1,0 +1,11 @@
+@article{2022jss,
+title = {Selenium-Jupiter: A JUnit 5 extension for Selenium WebDriver},
+journal = {Journal of Systems and Software},
+volume = {189},
+pages = {111298},
+year = {2022},
+issn = {0164-1212},
+doi = {https://doi.org/10.1016/j.jss.2022.111298},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121222000516},
+author = {Boni García and Carlos {Delgado Kloos} and Carlos Alario-Hoyos and Mario Munoz-Organero},
+}

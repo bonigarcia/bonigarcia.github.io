@@ -1,0 +1,12 @@
+@article{2022computing,
+  title={A systematic mapping study on automated analysis of privacy policies},
+  author={Del Alamo, Jose M and Guaman, Danny S and Garc{\'\i}a, Boni and Diez, Ana},
+  journal={Computing},
+  pages={2053--2076},
+  volume={104},
+  year={2022},
+  number={9},  
+  publisher={Springer},
+  issn={1436-5057},
+  doi={10.1007/s00607-022-01076-3}
+}
