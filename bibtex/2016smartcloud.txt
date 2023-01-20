@@ -1,0 +1,12 @@
+@inproceedings{2016smartcloud,
+  author 	= {Garc{\'\i}a, Boni and Gallego, Micael and L{\'o}pez, Luis and Carella, Giuseppe Antonio and Cheambe, Alice},
+  title 	= {{NUBOMEDIA: an Elastic PaaS Enabling the Convergence of Real-Time and Big Data Multimedia}},
+  booktitle = {2016 IEEE International Conference on Smart Cloud (SmartCloud)},
+  year      = {2016},
+  month 	= {November},
+  pages     = {45--56},
+  address 	= {New York, USA},
+  publisher = {IEEE},
+  isbn 		= {978-1-5090-5263-9},
+  doi 		= {10.1109/SmartCloud.2016.11},
+}

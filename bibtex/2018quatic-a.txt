@@ -1,0 +1,10 @@
+@inproceedings{2018quatic-a,
+  title={Extending WebDriver: A Cloud Approach},
+  author={Garc{\'\i}a, Boni and Gallego, Micael and Santos, Carlos and Jim{\'e}nez, Eduardo and Leal, Katia and Fernanez, Luis},
+  booktitle={2018 11th International Conference on the Quality of Information and Communications Technology (QUATIC)},
+  pages={143--146},
+  year={2018},
+  organization={IEEE},
+  isbn={978-1-5386-5841-3},
+  doi={10.1109/QUATIC.2018.00029}
+}

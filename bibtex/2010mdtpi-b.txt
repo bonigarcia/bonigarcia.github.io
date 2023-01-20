@@ -1,0 +1,12 @@
+@inproceedings{2010mdtpi-b,
+  author    = {Boni Garc\'ia and Rodrigo Garc\'ia-Carmona and Álvaro Navas and Hugo A. Parada and F\'elix Cuadrado and Juan C. Due{\~n}as},  
+  title     = {{An Automated Model-Based Testing Approach in Software Product Lines using a Variability Language}},
+  booktitle = {3rd Workshop on Model-Driven Tool \& Process Integration (MDTPI)},
+  year      = {2010},
+  month     = {June},
+  pages     = {41-50},
+  address   = {Paris, France},
+  isbn      = {978-3-8396-0175-4}
+}
+
+

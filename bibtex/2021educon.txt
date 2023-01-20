@@ -1,0 +1,10 @@
+@INPROCEEDINGS{2021educon,
+  author={Kloos, Carlos Delgado and Alario-Hoyos, Carlos and Fenández-Panadero, Carmen and Muñoz-Merino, Pedro J. and Estévez-Ayres, Iria and Muáoz-Organero, Mario and Ibáñez, María Blanca and Moreno-Marcos, Pedro Manuel and García, Boni},
+  booktitle={2021 IEEE Global Engineering Education Conference (EDUCON)}, 
+  title={Towards a Cloud-Based University Accelerated By the Pandemic}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1642-1649},
+  doi={10.1109/EDUCON46332.2021.9453967}
+}

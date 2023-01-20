@@ -1,0 +1,11 @@
+@inbook{2017scitepress,
+  author={Boni García and Micael Gallego and Francisco Gortázar and Luis López},
+  chapter={ElasTest, an Open-source Platform to Ease End-to-End Testing,
+  title={Challenges and Opportunities in ICT Research Projects - Volume 1: EPS Madrid 2017},
+  year={2017},
+  pages={3-21},
+  publisher={SciTePress},
+  organization={INSTICC},
+  doi={10.5220/0007904700030021},
+  isbn={978-989-758-309-4},
+}

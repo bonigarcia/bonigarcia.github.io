@@ -1,0 +1,9 @@
+@inproceedings{icin2016,
+  author={Cheambe, Alice and Pasquale, Maiorano and Murgia, Flavio and Garcia, Boni and Gallego, Micael and Carella, Giuseppe and Tomasini, Lorenzo and Calinciuc, Alin and Spoiala, Cristian},
+  title={Design and Implementation of a High Performant PaaS Platform for Creating Novel Real-Time Communication Paradigms},
+  booktitle={19th International Innovation in Clouds, Internet and Networks (ICIN) Conference},
+  year={2016},
+  month 	= {March},
+  pages     = {157--163},
+  address 	= {Paris, France}
+}

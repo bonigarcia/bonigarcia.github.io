@@ -1,0 +1,10 @@
+@inproceedings{2015-jitel-b,
+  author    = {Boni Garc\'ia and Luis L\'opez-Fern\'andez and Micael Gallego and Francisco Gort\'azar and Francisco Javier L\'opez},
+  title     = {{Testing Infrastructure for WebRTC applications}},
+  booktitle = {XII Jornadas de Ingenier\'ia Telem\'atica (JITEL)},
+  year      = {2015},
+  month     = {October},
+  pages     = {153-160},
+  address   = {Palma de Mallorca, Spain},
+  isbn      = {978-84-606-8609-5}
+}

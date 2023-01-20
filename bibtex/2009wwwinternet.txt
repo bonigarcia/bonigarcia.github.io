@@ -1,0 +1,10 @@
+@inproceedings{2009wwwinternet,
+  author    = {Boni Garc\'ia and Juan C. Due{\~n}as and Hugo A. Parada },  
+  title     = {{Functional Testing based on Web Navigation with Contracts}},
+  booktitle = {IADIS International Conference on WWW/INTERNET},
+  year      = {2009},
+  month     = {November},
+  pages     = {168--173},
+  address   = {Rome, Italy},
+  isbn      = {978-972-8924-93-5}
+}

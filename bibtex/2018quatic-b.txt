@@ -1,0 +1,10 @@
+@inproceedings{2018quatic-b,
+  title={A Proposal to Orchestrate Test Cases},
+  author={Garc{\'\i}a, Boni and Lonetti, Francesca and Gallego, Micael and Miranda, Breno and Jim{\'e}nez, Eduardo and De Angelis, Guglielmo and Santos, Carlos and Marchetti, Eda},
+  booktitle={2018 11th International Conference on the Quality of Information and Communications Technology (QUATIC)},
+  pages={38--46},
+  year={2018},
+  organization={IEEE},
+  isbn={978-1-5386-5841-3},
+  doi={10.1109/QUATIC.2018.00016}
+}

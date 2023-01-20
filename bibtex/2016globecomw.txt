@@ -1,0 +1,12 @@
+@inproceedings{2016globecomw,
+  author 	   = {Boni Garc\'ia and Luis L\'opez-Fern\'andez and Francisco Gort\'azar and Micael Gallego},
+  title 	   = {Analysis of video quality and end-to-end latency in WebRTC},
+  booktitle    = {2016 IEEE Global Communications Conference (GLOBECOM)}, 
+  year         = {2016},
+  month 	   = {December},
+  pages        = {1--6},
+  address 	   = {Washington DC, USA},
+  isbn 		   = {978-1-5090-2482-7},
+  doi          = {10.1109/GLOCOMW.2016.7848838},
+  organization = {IEEE},
+}

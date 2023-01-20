@@ -1,0 +1,11 @@
+@conference{icsoft17,
+  author={Boni García. and Micael Gallego. and Francisco Gortázar. and Eduardo Jiménez.},
+  title={{WebRTC Testing: State of the Art}},
+  booktitle={12th International Conference on Software Technologies (ICSOFT)},
+  year={2017},
+  pages={363-371},
+  publisher={SciTePress},
+  organization={INSTICC},
+  doi={10.5220/0006442003630371},
+  isbn={978-989-758-262-2},
+}

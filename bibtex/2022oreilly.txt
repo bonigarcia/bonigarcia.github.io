@@ -1,0 +1,7 @@
+@book{2022oreilly,
+  title={Hands-On Selenium WebDriver with Java},
+  author={García, Boni},
+  year={2022},
+  publisher={O'Reilly Media, Inc.},
+  isbn={9781098110000}
+}

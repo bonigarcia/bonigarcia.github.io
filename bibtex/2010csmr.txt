@@ -1,0 +1,13 @@
+@inproceedings{2010csmr,
+  author 	= {Boni Garc\'ia and Juan C. Due{\~n}as and Jos\'e I. Fernandez-Villamor and Adam Westerski and Mercedes Garijo and Carlos A. Iglesias},  
+  title 	= {{ROMULUS: Domain Driven Design and Mashup Oriented Development Based on Open Source Java Metaframework for Pragmatic, Reliable and Secure Web Development}},
+  booktitle = {14th European Conference on Software Maintenance and Reengineering (CSMR)},
+  year      = {2010},
+  month 	= {March},
+  pages     = {186-189},
+  address 	= {Madrid, Spain},
+  publisher = {IEEE Computer Society},
+  issn 		= {1534-5351},
+  isbn 		= {978-1-61284-369-8},
+  doi       = {10.1109/CSMR.2010.30}
+}

@@ -1,0 +1,10 @@
+@inproceedings{2017nfvsdn,
+  title={ElasTest - An open source project for testing distributed applications with failure injection},
+  author={Gortaz{\'a}r, Francisco and Gallego, Micael and Garc{\'\i}a, Boni and Carella, Giuseppe Antonio and Pauls, Michael and Gheorghe-Pop, Ilie-Daniel},
+  booktitle={2017 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN)},
+  pages={1--2},
+  year={2017},
+  organization={IEEE},
+  isbn={978-1-5386-3285-7},
+  doi={10.1109/NFV-SDN.2017.8169851}
+}

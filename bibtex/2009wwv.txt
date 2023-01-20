@@ -1,0 +1,9 @@
+@inproceedings{2009wwv,
+  author    = {Boni Garc\'ia and Juan C. Due{\~n}as and Hugo A. Parada},  
+  title     = {{Automatic Functional and Structural Test Case Generation for Web Applications based on Agile Frameworks}},
+  booktitle = {5th International Workshop on Automated Specification and Verification of Web Systems (WWV)},
+  year      = {2009},
+  month     = {July},
+  pages     = {99--114},
+  address   = {Hagenberg, Austria}
+}

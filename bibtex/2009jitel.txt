@@ -1,0 +1,10 @@
+@inproceedings{2009-jitel,
+  author    = {Hugo A. Parada and Juan C. Due{\~n}as and Boni Garc\'ia},  
+  title     = {{Modelo de Pruebas de Software en el Desarrollo de Aplicaciones Orientadas a Servicios}},
+  booktitle = {VIII Jornadas de Ingenier\'ia Telem\'atica (JITEL)},
+  year      = {2009},
+  month     = {September},
+  pages     = {223--230},
+  address   = {Cartagena, Spain},
+  isbn      = {978-84-96997-27-1}
+}

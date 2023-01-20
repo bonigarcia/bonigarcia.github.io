@@ -1,0 +1,12 @@
+@inproceedings{2009csmr,
+  author    = {Bart Van Rompaey and Bart Du Bois and Serge Demeyer and John Pleunis and Ron Putman and Karel Meijfroidt and Juan C. Due{\~n}as and Boni Garc\'ia},  
+  title     = {{SERIOUS: Software Evolution, Refactoring, Improvement of Operational and Usable Systems}},
+  booktitle = {13th European Conference on Software Maintenance and Reengineering (CSMR)},
+  year      = {2009},
+  month     = {March},
+  pages     = {277--280},
+  address   = {Kaiserslautern, Germany},
+  publisher = {IEEE Computer Society},
+  isbn      = {978-07695-3589-0},
+  doi       = {10.1109/CSMR.2009.30}
+}

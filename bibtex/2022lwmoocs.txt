@@ -1,0 +1,10 @@
+@INPROCEEDINGS{2022lwmoocs,
+  author={Kloos, Carlos Delgado and García, Boni and Alario-Hoyos, Carlos},
+  booktitle={2022 IEEE Learning with MOOCS (LWMOOCS)}, 
+  title={Educational Yin&Yang: Towards a Framework for the Instructional Design of MOOCs}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/LWMOOCS53067.2022.9928024}
+}

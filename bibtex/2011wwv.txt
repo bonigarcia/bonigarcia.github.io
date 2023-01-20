@@ -1,0 +1,11 @@
+@inproceedings{2011wwv,
+  author    = {Boni Garc\'ia and Juan C. Due{\~n}as},  
+  title     = {{Automated Functional Testing Based on the Navigation of Web Applications}},
+  booktitle = {7th International Workshop on Automated Specification and Verification of Web Systems (WWV)},
+  year      = {2011},
+  month     = {June},
+  pages     = {49--65},
+  address   = {Reykjavik, Iceland},
+  publisher = {EPTCS},
+  doi       = {10.4204/EPTCS.61.4}
+}

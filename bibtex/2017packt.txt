@@ -1,0 +1,7 @@
+@book{2017packt,
+  title={Mastering Software Testing with JUnit 5},
+  author={García, Boni},
+  year={2017},
+  publisher={Packt Publishing Ltd},
+  isbn={9781787285736}
+}

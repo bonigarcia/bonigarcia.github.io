@@ -1,0 +1,10 @@
+@INPROCEEDINGS{2022educon,
+  author={Kloos, Carlos Delgado and Fernández-Panadero, Carmen and Alario-Hoyos, Carlos and Moreno-Marcos, Pedro Manuel and Ibáñez, María Blanca and Muñoz-Merino, Pedro J. and García, Boni and Estévez-Ayres, Iria},
+  booktitle={2022 IEEE Global Engineering Education Conference (EDUCON)}, 
+  title={Programming Teaching Interaction}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1965-1969},
+  doi={10.1109/EDUCON52537.2022.9766697}
+}

@@ -1,0 +1,10 @@
+@inproceedings{2018modelsward,
+  title={{User Impersonation as a Service in End-to-End Testing}},
+  author={Garc{\'\i}a, Boni and Gort{\'a}zar, Francisco and Gallego, Micael and Jim{\'e}nez, Eduardo},
+  booktitle={6th International Conference on Model-Driven Engineering and Software Development (MODELSWARD)},
+  pages={707--714},
+  year={2018},
+  isbn={978-989-758-283-7},
+  address={Funchal, Portugal},
+  doi={10.5220/0006752207070714}
+}

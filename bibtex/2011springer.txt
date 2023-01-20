@@ -1,0 +1,10 @@
+@inbook{2011springer,
+  author 	= {Iglesias, Carlos A. and Fern{\'a}ndez-Villamor, Jos{\'e} Ignacio and David del Pozo and Luca Garulli and Boni Garc{\'i}a},
+  title 	= {{S}ervice {E}ngineering: {E}uropean research results},
+  year 		= {2011},
+  isbn 		= {978-3-7091-0414-9},
+  chapter	= {Combining Domain-Driven Design and Mashups for Service Development},
+  pages 	= {171--200},
+  publisher	= {Springer-Verlag/Wien},
+  doi		= {10.1007/978-3-7091-0415-6},
+}

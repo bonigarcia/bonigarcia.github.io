@@ -1,0 +1,11 @@
+@inproceedings{2010mdtpi-a,
+  author    = {Rodrigo Garc\'ia-Carmona and Álvaro Navas and F\'elix Cuadrado and Boni Garc\'ia and Hugo A. Parada and Juan C. Due{\~n}as},  
+  title     = {{A Model-Based Approach for the Management of Electronic Invoices}},
+  booktitle = {3rd Workshop on Model-Driven Tool \& Process Integration (MDTPI)},
+  year      = {2010},
+  month     = {June},
+  pages     = {51-61},
+  address   = {Paris, France},
+  isbn      = {978-3-8396-0175-4}
+}
+

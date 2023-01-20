@@ -1,0 +1,12 @@
+@inproceedings{2016acmm,
+  author 	= {Luis L\'opez and Miguel Par\'is and Santiago Carot and Boni Garc\'ia and Micael Gallego and Francisco Gort\'azar and Raul Ben\'itez and Jose A. Santos and David Fern\'andez and Radu Tom Vlad and Iv\'an Gracia and Francisco Javier L\'opez},
+  title 	= {{Kurento: The WebRTC Modular Media Server}},
+  booktitle = {24th ACM international conference on Multimedia},
+  year      = {2016},
+  month 	= {October},
+  pages     = {1187--1191},
+  address 	= {Amsterdam, The Netherlands},
+  publisher = {ACM},
+  isbn 		= {978-1-4503-3603-1},
+  doi 		= {10.1145/2964284.2973798}
+}

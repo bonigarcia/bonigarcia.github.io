@@ -1,0 +1,10 @@
+@inproceedings{2015-jitel-a,
+  author    = {Boni Garc\'ia and Ana G\'omez and Rafael Conde and Yolanda Hern\'andez and Miguel Angel Valero},
+  title     = {{Certificado Digital Accesible para la e-Administraci\'on}},
+  booktitle = {XII Jornadas de Ingenier\'ia Telem\'atica (JITEL)},
+  year      = {2015},
+  month     = {October},
+  pages     = {60-67},
+  address   = {Palma de Mallorca, Spain},
+  isbn      = {978-84-606-8609-5}
+}

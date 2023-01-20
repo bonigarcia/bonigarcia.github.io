@@ -1,0 +1,12 @@
+@inproceedings{2008ainaw,
+  author    = {F\'elix Cuadrado and Boni Garc\'ia and Juan C. Due{\~n}as and Hugo A. Parada},  
+  title     = {{A Case Study on Software Evolution towards Service-Oriented Architecture}},
+  booktitle = {22nd International Conference on Advanced Information Networking and Applications (AINA)},
+  year      = {2008},
+  month     = {March},
+  pages     = {1399--1404},
+  address   = {Okinawa, Japan},
+  publisher = {IEEE Computer Society},
+  isbn      = {978-0-7695-3096-3},
+  doi       = {10.1109/WAINA.2008.296}
+}

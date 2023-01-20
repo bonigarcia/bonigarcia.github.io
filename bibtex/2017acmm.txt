@@ -1,0 +1,10 @@
+@inproceedings{2017acmm,
+  title={{NUBOMEDIA: The first open source WebRTC PaaS}},
+  author={Garcia, Boni and L{\'o}pez, Luis and Gort{\'a}zar, Francisco and Gallego, Micael and Carella, Giuseppe Antonio},
+  booktitle={25th ACM international conference on Multimedia},
+  pages={1205--1208},
+  year={2017},
+  organization={ACM},
+  isbn={978-1-4503-4906-2},
+  doi={10.1145/3123266.3129392}
+}

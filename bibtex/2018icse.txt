@@ -1,0 +1,11 @@
+@inproceedings{2018icse,
+  title{When the testing gets tough, the tough get ElasTest}},
+  author={Bertolino, Antonia and Calabr{\'o}, Antonello and De Angelis, Guglielmo and Gallego, Micael and Garc{\'\i}a, Boni and Gort{\'a}zar, Francisco},
+  booktitle={40th International Conference on Software Engineering (ICSE)},
+  pages={17--20},
+  year={2018},
+  organization={ACM},
+  isbn={978-1-4503-5663-3},
+  address={Gothenburg, Sweden},
+  doi={10.1145/3183440.3183497}
+}

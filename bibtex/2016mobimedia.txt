@@ -1,0 +1,10 @@
+@inproceedings{2016mobimedia,
+  author    = {Boni Garc\'ia and Luis L\'opez-Fern\'andez and Micael Gallego and Francisco Gort\'azar},
+  title     = {{Testing Framework for WebRTC Services}},
+  booktitle = {9th EAI International Conference on Mobile Multimedia Communications (MOBIMEDIA)},
+  year      = {2016},
+  month     = {June},
+  pages     = {40--47},
+  address   = {Xi'an, China},
+  isbn      = {978-1-63190-104-1}
+}

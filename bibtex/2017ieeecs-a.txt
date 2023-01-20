@@ -1,0 +1,12 @@
+@article{2017ieeecs-a,
+  title={WebRTC testing: challenges and practical solutions},
+  author={Garcia, Boni and Gortazar, Francisco and Lopez-Fernandez, Luis and Gallego, Micael and Paris, Miguel},
+  journal={IEEE Communications Standards Magazine},
+  volume={1},
+  number={2},
+  pages={36--42},
+  year={2017},
+  publisher={IEEE},
+  doi={10.1109/MCOMSTD.2017.1700005},
+  issn={2471-2825},
+}
