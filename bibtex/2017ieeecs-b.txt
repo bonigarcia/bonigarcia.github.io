@@ -1,6 +1,6 @@
 @article{2017ieeecs-b,
   title={Kurento: the Swiss army knife of WebRTC media servers},
-  author={Garcia, Boni and Lopez-Fernandez, Luis and Gallego, Micael and Gortazar, Francisco},
+  author={Garc\'ia, Boni and Lopez-Fernandez, Luis and Gallego, Micael and Gortazar, Francisco},
   journal={IEEE Communications Standards Magazine},
   volume={1},
   number={2},
