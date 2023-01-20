@@ -1,4 +1,4 @@
-@inproceedings{2015-jitel-b,
+@inproceedings{2015jitel-b,
   author    = {Boni Garc\'ia and Luis L\'opez-Fern\'andez and Micael Gallego and Francisco Gort\'azar and Francisco Javier L\'opez},
   title     = {{Testing Infrastructure for WebRTC applications}},
   booktitle = {XII Jornadas de Ingenier\'ia Telem\'atica (JITEL)},
