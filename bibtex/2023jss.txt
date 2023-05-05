@@ -1,0 +1,10 @@
+@article{2023jss,
+title = {Enhancing Web Applications Observability through Instrumented Automated Browsers},
+journal = {Journal of Systems and Software},
+pages = {111723},
+year = {2023},
+issn = {0164-1212},
+doi = {https://doi.org/10.1016/j.jss.2023.111723},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121223001188},
+author = {Boni Garc{\'i}a and Filippo Ricca and Jose M. {del Alamo} and Maurizio Leotta}
+}
