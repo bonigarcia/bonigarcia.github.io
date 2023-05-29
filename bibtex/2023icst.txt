@@ -1,0 +1,9 @@
+@INPROCEEDINGS{2023icst,
+  author={Leotta, Maurizio and García, Boni and Ricca, Filippo and Whitehead, Jim},
+  booktitle={2023 IEEE Conference on Software Testing, Verification and Validation (ICST)}, 
+  title={Challenges of End-to-End Testing with Selenium WebDriver and How to Face Them: A Survey}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={339-350},
+  doi={10.1109/ICST57152.2023.00039}}
