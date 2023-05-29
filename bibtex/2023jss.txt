@@ -1,6 +1,7 @@
 @article{2023jss,
 title = {Enhancing Web Applications Observability through Instrumented Automated Browsers},
 journal = {Journal of Systems and Software},
+volume = {203},
 pages = {111723},
 year = {2023},
 issn = {0164-1212},
