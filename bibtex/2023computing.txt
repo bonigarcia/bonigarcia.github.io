@@ -1,0 +1,9 @@
+@article{2023computing,
+  title={ROI: a method for identifying organizations receiving personal data},
+  author={Rodriguez, David and Del Alamo, Jose M and Cozar, Miguel and Garc{\'\i}a, Boni},
+  journal={Computing},
+  year={2023},
+  publisher={Springer},
+  issn={1436-5057},
+  doi={10.1007/s00607-023-01209-2}
+}
