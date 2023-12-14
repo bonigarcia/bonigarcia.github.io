@@ -2,6 +2,7 @@
   title={ROI: a method for identifying organizations receiving personal data},
   author={Rodriguez, David and Del Alamo, Jose M and Cozar, Miguel and Garc{\'\i}a, Boni},
   journal={Computing},
+  pages={1--22},
   year={2023},
   publisher={Springer},
   issn={1436-5057},
