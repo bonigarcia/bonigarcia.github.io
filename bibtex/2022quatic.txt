@@ -1,6 +1,6 @@
 @InProceedings{2022quatic,
   author="Leotta, Maurizio and Garc{\'i}a, Boni and Ricca, Filippo",
-  title="An Empirical Study to Quantify the SetUp and Maintenance Benefits of Adopting WebDriverManager",
+  title="An Empirical Study to Quantify the SetUp and Maintenance Benefits of Adopting WebDriverManager",
   booktitle="Quality of Information and Communications Technology",
   year="2022",
   publisher="Springer International Publishing",
