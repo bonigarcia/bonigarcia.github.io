@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3661167.3661192,
+author = {Leotta, Maurizio and Yousaf, Hafiz Zeeshan and Ricca, Filippo and Garcia, Boni},
+title = {AI-Generated Test Scripts for Web E2E Testing with ChatGPT and Copilot: A Preliminary Study},
+year = {2024},
+isbn = {9798400717017},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3661167.3661192},
+doi = {10.1145/3661167.3661192},
+abstract = {Automated testing is vital for ensuring the reliability of web applications. This paper presents a preliminary study on leveraging artificial intelligence (AI) models, specifically ChatGPT and Github Copilot, to generate test scripts for web end-to-end testing. Through experimentation, we evaluated the feasibility and effectiveness of AI language models in generating test scripts based on natural language descriptions of user interactions with web applications. Our preliminary results show that AI-based generation generally provides an advantage over fully manual test scripts development. Starting from test cases clearly defined in Gherkin, a reduction in development time is always observable. In some cases, this reduction is statistically significant (e.g., Manual vs. a particular use of ChatGPT). These results are valid provided that the tester has some skills in manual test script development and is therefore able to modify the code produced by the AI-generation tools. This study contributes to the exploration of AI-driven solutions in web test scripts generation and lays the foundation for future research in this domain.},
+booktitle = {Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering},
+pages = {339–344},
+numpages = {6},
+keywords = {ChatGPT, E2E Testing, Empirical Study., GitHub Copilot, LLM, Selenium WebDriver, Test Automation},
+location = {<conf-loc>, <city>Salerno</city>, <country>Italy</country>, </conf-loc>},
+series = {EASE '24}
+}
