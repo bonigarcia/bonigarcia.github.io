@@ -1,0 +1,15 @@
+@inproceedings{2024atest,
+author = {Garc\'{\i}a, Boni and Leotta, Maurizio and Ricca, Filippo and Whitehead, Jim},
+title = {Use of ChatGPT as an Assistant in the End-to-End Test Script Generation for Android Apps},
+year = {2024},
+isbn = {9798400711091},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3678719.3685691},
+doi = {10.1145/3678719.3685691},
+booktitle = {Proceedings of the 15th ACM International Workshop on Automating Test Case Design, Selection and Evaluation},
+pages = {5–11},
+numpages = {7},
+location = {Vienna, Austria},
+series = {A-TEST 2024}
+}
