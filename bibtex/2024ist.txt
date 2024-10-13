@@ -1,0 +1,11 @@
+@article{2024ist,
+title = {A family of experiments to quantify the benefits of adopting WebDriverManager and Selenium-Jupiter},
+journal = {Information and Software Technology},
+pages = {107595},
+year = {2024},
+issn = {0950-5849},
+doi = {https://doi.org/10.1016/j.infsof.2024.107595},
+url = {https://www.sciencedirect.com/science/article/pii/S0950584924002003},
+author = {Maurizio Leotta and Boni García and Filippo Ricca},
+keywords = {E2E testing, Selenium WebDriver, WebDriverManager, Selenium-Jupiter, Family of experiments},
+}
