@@ -1,8 +1,10 @@
-@article{2024ist,
+@article{2025ist,
 title = {A family of experiments to quantify the benefits of adopting WebDriverManager and Selenium-Jupiter},
 journal = {Information and Software Technology},
+volume = {178},
 pages = {107595},
-year = {2024},
+year = {2025},
+publisher = {Elsevier}
 issn = {0950-5849},
 doi = {https://doi.org/10.1016/j.infsof.2024.107595},
 url = {https://www.sciencedirect.com/science/article/pii/S0950584924002003},
