@@ -1,4 +1,4 @@
-@inproceedings{10.1145/3661167.3661192,
+@inproceedings{2024ease,
 author = {Leotta, Maurizio and Yousaf, Hafiz Zeeshan and Ricca, Filippo and Garcia, Boni},
 title = {AI-Generated Test Scripts for Web E2E Testing with ChatGPT and Copilot: A Preliminary Study},
 year = {2024},
