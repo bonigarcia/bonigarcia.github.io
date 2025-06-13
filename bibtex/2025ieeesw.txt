@@ -1,0 +1,11 @@
+@ARTICLE{2025ieeesw,
+  author={Ricca, Filippo and García, Boni and Nass, Michel and Harman, Mark},
+  journal={IEEE Software},
+  title={Next-Generation Software Testing: AI-Powered Test Automation},
+  year={2025},
+  volume={42},
+  number={4},
+  pages={25-33},
+  keywords={Special issues and sections;Software testing;Artificial intelligence;Automation;Next generation networking},
+  doi={10.1109/MS.2025.3559194}
+}
