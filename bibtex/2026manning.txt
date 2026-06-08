@@ -1,0 +1,7 @@
+@book{2026manning,
+  title={Hands-On Selenium WebDriver with Java},
+  author={García, Boni},
+  year={2026},
+  publisher={Manning},
+  isbn={9781633434257}
+}
