@@ -1,5 +1,5 @@
 @book{2026manning,
-  title={Hands-On Selenium WebDriver with Java},
+  title={Context Engineering: Build consistent, accurate, predictable AI systems},
   author={García, Boni},
   year={2026},
   publisher={Manning},
