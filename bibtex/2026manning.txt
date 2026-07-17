@@ -2,6 +2,6 @@
   title={Context Engineering: Build consistent, accurate, predictable AI systems},
   author={García, Boni},
   year={2026},
-  publisher={Manning},
+  publisher={Manning Publications},
   isbn={9781633434257}
 }
