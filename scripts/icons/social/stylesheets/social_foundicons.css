@@ -147,3 +147,9 @@
 .foundicon-wordpress:before {
   content: "\f01d";
 }
+
+/* Add this to social_foundicons.css or your overrides */
+.foundicon-amazon::before {
+  content: "\f270"; /* FontAwesome Amazon code */
+  font-family: "Font Awesome 6 Brands"; /* Or another font that has it */
+}

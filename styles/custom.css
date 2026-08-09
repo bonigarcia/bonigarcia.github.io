@@ -81,8 +81,6 @@ margin-right:7px;margin-bottom:7px;float:left;
 
 /* Icons */
 
-[class*="social foundicon-"]:before {font-family: "SocialFoundicons";}
-
 [class*="general foundicon-"]:before {font-family: "GeneralFoundicons";}
 
         
@@ -113,7 +111,7 @@ margin-right: -20px !important; /* fix bg cover issue */
 
 /* Footer elements */
 
-.social_bookmarks a {font-size:smaller !important;text-transform:uppercase;letter-spacing:1px;text-decoration:none;margin-right:20px;}
+.social_bookmarks a {font-size:smaller !important;text-transform:uppercase;letter-spacing:1px;text-decoration:none;margin-right:15px;}
 
 .copyright {font-size:smaller;letter-spacing:1px;}
 
