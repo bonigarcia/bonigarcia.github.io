@@ -1,0 +1,50 @@
+# Boni García
+
+> Boni García, PhD, is an Associate Professor (with tenure) at Universidad Carlos III de Madrid (UC3M), open-source developer, and Tech Lead at Selenium. Author of Context Engineering (Manning, 2026), Hands-On Selenium WebDriver with Java (O'Reilly, 2022), and Mastering Software Testing with JUnit 5 (Packt, 2017).
+
+This website (https://bonigarcia.dev/) serves as the personal portal and academic homepage for Boni García. It documents his software engineering and open-source projects, university teaching courses and open lecture materials, academic research in software engineering and AI-assisted development, publications (JCR journal papers, conference proceedings, books), and conference presentation slides.
+
+## Main Pages
+
+- [Home](https://bonigarcia.dev/): Biography, overview of activities, contact information, and social links.
+- [Resume and Experience](https://bonigarcia.dev/resume.html): Detailed curriculum vitae, including education (PhD, MS, BS from UPM), academic positions (UC3M), industry roles (Sauce Labs), technical skills, and awards.
+- [Software Projects](https://bonigarcia.dev/software.html): Catalog of open-source tools, libraries, browser extensions, AI utilities, and book/teaching code repositories.
+- [Learning Resources for Developers](https://bonigarcia.dev/learning-resources.html): Open courseware, downloadable lecture slides (PDF), and guides across mobile development, systems architecture, NLP, web engineering, and networking.
+- [Research Projects](https://bonigarcia.dev/research.html): National and international R&D projects across research groups (GAST/UC3M, CodeURJC, GSyC, TSIC, STRAST), including GENIELearn, ARTIFACTS, and H2O Learn.
+- [Publications and Dissemination Activities](https://bonigarcia.dev/publications.html): Complete record of JCR journal articles, books, book chapters, conference papers, invited talks, and conference presentation slides.
+- [Academic Courses](https://bonigarcia.dev/teaching.html): University teaching record, courses taught (Mobile Applications, Systems Architecture, Network Programming), and thesis advising.
+
+## Open Source Projects
+
+- [Selenium](https://www.selenium.dev/): Browser automation ecosystem where Boni García serves as Tech Lead and Project Leadership Committee (TLC) member.
+- [Selenium Manager](https://www.selenium.dev/documentation/selenium_manager/): Lead developer of the official driver and browser management CLI tool bundled with Selenium.
+- [WebDriverManager](https://github.com/bonigarcia/webdrivermanager): Creator and maintainer of the automated driver management library for Selenium WebDriver in Java.
+- [Selenium-Jupiter](https://github.com/bonigarcia/selenium-jupiter): JUnit 5 extension for Selenium WebDriver end-to-end testing.
+- [BrowserWatcher](https://github.com/bonigarcia/browserwatcher): Chrome, Firefox, and Edge browser extension to monitor and record browser-level telemetry and network activity.
+- [IncluScan](https://github.com/bonigarcia/IncluScan): AI-powered CLI tool analyzing websites to suggest inclusive, non-sexist language improvements.
+- [KidCut](https://github.com/bonigarcia/KidCut): AI-powered CLI tool that detects and cuts adult scenes from video files to produce family-friendly MKV versions.
+
+## Books and Code Repositories
+
+- [Context Engineering](https://hubs.la/Q04ksQ6g0): Book published by Manning (2026) exploring the art and science of shaping context for LLMs and AI-assisted development.
+- [Context Engineering Code Examples](https://github.com/bonigarcia/context-engineering): Example code and resources demonstrating context engineering techniques for AI systems.
+- [Hands-On Selenium WebDriver with Java](https://oreil.ly/1E7CX): Practical testing book published by O'Reilly Media (2022).
+- [Hands-On Selenium Code Examples](https://github.com/bonigarcia/selenium-webdriver-java): Comprehensive Selenium WebDriver Java test suite and code samples for the O'Reilly book.
+- [Mastering Software Testing with JUnit 5](https://www.amazon.com/Mastering-Software-Testing-JUnit-Comprehensive-ebook/dp/B076ZQCK5Q/): Book published by Packt Publishing (2017) on testing practices with JUnit 5.
+- [Mastering JUnit 5 Code Examples](https://github.com/bonigarcia/mastering-junit5): Sample code and test suites for the JUnit 5 book.
+
+## Developer Learning Resources
+
+- [Mobile Applications (Android / Kotlin / Jetpack Compose)](https://bonigarcia.dev/learning-resources.html): Slides covering Android fundamentals, UI design, intents, persistent storage, REST APIs, notifications, testing, and cross-platform frameworks.
+- [Systems Architecture (C / Linux)](https://bonigarcia.dev/learning-resources.html): Slides on C programming, I/O, modularity, pointers, dynamic memory, concurrency, and debugging tools.
+- [Natural Language Processing (Python / Machine Learning)](https://bonigarcia.dev/learning-resources.html): Slides on NLP fundamentals, datasets, statistical NLP, and neural NLP with scikit-learn, NLTK, and Keras.
+- [Web Engineering and Cloud Computing (Java / Spring)](https://bonigarcia.dev/learning-resources.html): Slides covering Spring Boot, Spring MVC, Spring Data, Spring Security, REST services, and web test automation.
+- [Computer Networks (TCP/IP / Java)](https://bonigarcia.dev/learning-resources.html): Slides on network layers (link, network, transport, application), HTTP, DNS, and network programming in Java.
+
+## Optional
+
+- [GitHub Profile](https://github.com/bonigarcia): Complete collection of open-source repositories and contributions.
+- [Google Scholar Profile](https://scholar.google.es/citations?user=-CSo4-UAAAAJ): Citation metrics, h-index, and academic paper references.
+- [ORCID Profile](https://orcid.org/0000-0003-1808-8410): Researcher identifier 0000-0003-1808-8410.
+- [LinkedIn Profile](https://www.linkedin.com/in/bonigg/): Professional background, experience timeline, and recommendations.
+- [UC3M Faculty Directory](http://www.it.uc3m.es/bogarcia/index.html): Official academic profile at Telematic Engineering Department, Universidad Carlos III de Madrid.
