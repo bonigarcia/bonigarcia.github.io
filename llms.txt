@@ -1,6 +1,6 @@
 # Boni García
 
-> Boni García, PhD, is an Associate Professor (with tenure) at Universidad Carlos III de Madrid (UC3M), open-source developer, and Tech Lead at Selenium. Author of Context Engineering (Manning, 2026), Hands-On Selenium WebDriver with Java (O'Reilly, 2022), and Mastering Software Testing with JUnit 5 (Packt, 2017).
+> Boni García, PhD, is an Associate Professor (with tenure) at Universidad Carlos III de Madrid (UC3M), open-source developer, and member of the Selenium Technical Leadership Committee. Author of Context Engineering (Manning, 2026), Hands-On Selenium WebDriver with Java (O'Reilly, 2022), and Mastering Software Testing with JUnit 5 (Packt, 2017).
 
 This website (https://bonigarcia.dev/) serves as the personal portal and academic homepage for Boni García. It documents his software engineering and open-source projects, university teaching courses and open lecture materials, academic research in software engineering and AI-assisted development, publications (JCR journal papers, conference proceedings, books), and conference presentation slides.
 
@@ -16,7 +16,7 @@ This website (https://bonigarcia.dev/) serves as the personal portal and academi
 
 ## Open Source Projects
 
-- [Selenium](https://www.selenium.dev/): Browser automation ecosystem where Boni García serves as Tech Lead and Project Leadership Committee (TLC) member.
+- [Selenium](https://www.selenium.dev/): Browser automation ecosystem where Boni García is a member of the Technical Leadership Committee (TLC).
 - [Selenium Manager](https://www.selenium.dev/documentation/selenium_manager/): Lead developer of the official driver and browser management CLI tool bundled with Selenium.
 - [WebDriverManager](https://github.com/bonigarcia/webdrivermanager): Creator and maintainer of the automated driver management library for Selenium WebDriver in Java.
 - [Selenium-Jupiter](https://github.com/bonigarcia/selenium-jupiter): JUnit 5 extension for Selenium WebDriver end-to-end testing.
